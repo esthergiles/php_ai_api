@@ -3,6 +3,6 @@
 
 ## XAMPP Spin Up
 1. Download this repo
-2. Extract files to HTDOCS folder under XAMPP folder
+2. Extract files to path: XAMPP >> HTDOCS >> The file you are extracting
 3. Replace [line 8 of ai.php](https://github.com/esthergiles/php_ai_api/blob/1ff0dbea458f8dfda268a128f6f1ce5acdbbb2dd/ai.php#L8) with your own api key.
 4. Launch XXAMP and navigate to [local host ](http://localhost/php_ai_api/)
