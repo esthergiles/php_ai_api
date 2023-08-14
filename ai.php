@@ -5,7 +5,7 @@ use Orhanerday\OpenAi\OpenAi;
 
 // TO DO set up Env variable $open_ai_key = getenv('OPENAI_API_KEY');
 
-$open_ai_key = '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';
+$open_ai_key = 'ForPrivacyrRemovedKey';
 
 $open_ai = new OpenAi($open_ai_key);
 
